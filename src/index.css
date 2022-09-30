@@ -1,0 +1,19 @@
+html{
+  background-color: rgb(17, 42, 72);
+}
+
+.container-fluid{
+  background-color: rgb(17, 42, 72);
+}
+
+input[type='text']{
+  background: transparent;
+  color: white;
+}
+input[type='text']:focus{
+  background: transparent;
+  color: white;
+}
+button:hover{
+  background-image: linear-gradient(rgba(255, 251, 251, 0.1) 0 0);  
+}
